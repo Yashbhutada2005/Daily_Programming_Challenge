@@ -1,7 +1,7 @@
 public class problem_3 {
 
         public static int findDuplicateNumber(int[] arr){
-            int n=arr.length;
+            int n =arr.length;
             int hare=arr[0];
             int tortoise=arr[0];
             do{
